@@ -1,2 +1,16 @@
-Отличие в том, что в demo есть главная ветка, от которой отходят и сходятся другие.
-В master все ветки непонятно расположены из-за неимения главной.
+В demo dots были сразу в главной ветке.
+Не был исправлен README
+
+12 комитов
+init
+heat added
+boots
+README added
+dots
+fix readme
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge remote-tracking branch 'origin/hat'
+Merge branch 'boots_buttons'
+new file
+fix file
